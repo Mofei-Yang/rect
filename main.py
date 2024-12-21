@@ -22,7 +22,7 @@ def game():
     # 设置帧率
 
     start_time = time.time()
-    left_time = 100
+    left_time = 50
     catch_CD = 0
     escape_CD = 0
     CD_last_time = start_time
